@@ -40,17 +40,17 @@ from the user which segments it down into smaller segments.
 
 ## Results: ##
 ### Input Speech Signal: ###
-<img src ="https://user-images.githubusercontent.com/88222317/169950806-c35e0bff-b4a5-4b06-9ae6-20e1c3fdd533.png" width="800" height="350" />
+<img src ="https://user-images.githubusercontent.com/88222317/169954931-085bc3a5-1313-4a8c-bda2-d7fab3635da9.png" width="800" height="350" />
 
 ### Plot of Pitch: ###
-<img src ="https://user-images.githubusercontent.com/88222317/169951006-3c2ccf5e-c714-477b-a009-3fe2ea3d699e.png" width="800" height="350" />
+<img src ="https://user-images.githubusercontent.com/88222317/169955010-255abb72-284a-4f67-ba82-052455b978e2.png" width="800" height="350" />
 
 ### Reconstruction of Speech Signal Without Pitch: ###
-<img src ="https://user-images.githubusercontent.com/88222317/169951184-28de3eab-5bf6-4f59-a907-c02f63ce7555.png" width="800" height="350" />
+<img src ="https://user-images.githubusercontent.com/88222317/169955785-dd2b3ed1-3fa0-41f6-be7e-369309b1d456.png" width="800" height="350" />
 
 
 ### Reconstruction of Speech Signal With Pitch: ###
-<img src ="https://user-images.githubusercontent.com/88222317/169951326-4a0bf1aa-81b3-41ca-95ce-af2e6130304c.png" width="800" height="350" />
+<img src ="https://user-images.githubusercontent.com/88222317/169955537-49a3350f-30c3-4b8c-b65b-8b7de0ad67df.png" width="800" height="350" />
 
 
 ## Analysis of Reconstructed Speech: ##
@@ -94,3 +94,6 @@ Order of LP Filter  | Without Pitch Detection  | With Pitch Detection
     * It produces a clear output and the nasality tone of the output was more prominent.
 * Without Pitch Detection:
     * It produces a signal with higher pitch/depth.
+
+## Link to the Video of the Project: ##
+click [here](https://drive.google.com/file/d/1NT17fd1ytRTeBPmg53qjrnF1My6NuH2K/view?usp=sharing) to view the demonstration.
