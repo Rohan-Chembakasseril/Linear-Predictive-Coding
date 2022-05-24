@@ -16,6 +16,8 @@ the Low Pass Filter, which reconstructs the audio signal x(t) by performing the
 interpolation of samples in the input.
 
 ## Graphical User Interface and working of LPC model: ##
+<img src = "https://user-images.githubusercontent.com/88222317/169949712-c13954a6-e24d-40aa-bf65-22013d0673c4.png" width="800" height="350" />
+
 * Graphical User Interface(GUI) is created in MATLAB using Guide in command
 window.
 * It has a button for recording the speech which records the sound for 5 seconds and is saved as a file and
@@ -34,16 +36,21 @@ from the user which segments it down into smaller segments.
 
 
 ## Explanation of Linear Predictive Filter Code: ##
-
+<img src ="https://user-images.githubusercontent.com/88222317/169951663-15fc09d6-a164-4b37-9617-d83a86a22bf7.png" width="800" height="400" />
 
 ## Results: ##
 ### Input Speech Signal: ###
+<img src ="https://user-images.githubusercontent.com/88222317/169950806-c35e0bff-b4a5-4b06-9ae6-20e1c3fdd533.png" width="800" height="350" />
 
 ### Plot of Pitch: ###
+<img src ="https://user-images.githubusercontent.com/88222317/169951006-3c2ccf5e-c714-477b-a009-3fe2ea3d699e.png" width="800" height="350" />
 
 ### Reconstruction of Speech Signal Without Pitch: ###
+<img src ="https://user-images.githubusercontent.com/88222317/169951184-28de3eab-5bf6-4f59-a907-c02f63ce7555.png" width="800" height="350" />
+
 
 ### Reconstruction of Speech Signal With Pitch: ###
+<img src ="https://user-images.githubusercontent.com/88222317/169951326-4a0bf1aa-81b3-41ca-95ce-af2e6130304c.png" width="800" height="350" />
 
 
 ## Analysis of Reconstructed Speech: ##
